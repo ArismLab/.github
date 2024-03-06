@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>Arism Lab - Power your future</h1>
-<p>🚀 We bring a new transparent world by developing cutting-edge web3 applications</p>
+<p>We bring a new transparent world by developing cutting-edge web3 applications 🚀</p>
 <a href="https://arism.vercel.app">https://arism.vercel.app</a>
 </div>
 
@@ -23,8 +23,8 @@ A block building and defending Game on Telegram
 
 We are three young and enthusiastic Blockchain Developers who are now pround to be the Arism founders.
 
-|   Founder name   |                               Role                                |
-| :--------------: | :---------------------------------------------------------------: |
-|   **Nhi Tran**   |     Bussiness Developer, Game Developer, Blockchain Developer     |
-|  **Kiet Tran**   |   Back-end Developer, Cloud Developer, Smart Contract Developer   |
+|   Founder name   | Role                                                              |
+| :--------------: | ----------------------------------------------------------------- |
+|   **Nhi Tran**   | Bussiness Developer, Game Developer, Blockchain Developer         |
+|  **Kiet Tran**   | Back-end Developer, Cloud Developer, Smart Contract Developer     |
 | **Thuan Nguyen** | Front-end Developer, Back-end Developer, Smart Contract Developer |
