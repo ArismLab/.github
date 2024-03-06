@@ -26,5 +26,5 @@ We are three young and enthusiastic Blockchain Developers who are now pround to 
 |   Founder name   | Role                                                              |
 | :--------------: | ----------------------------------------------------------------- |
 |   **Nhi Tran**   | Bussiness Developer / Game Developer / Blockchain Engineer        |
-|  **Kiet Tran**   | Back-end Developer / DevOps Engineer / Smart Contract Engineer    |
+|  **Kiet Tran**   | Backend Developer / DevOps Engineer / Smart Contract Engineer     |
 | **Thuan Nguyen** | Fullstack Developer / Security Engineer / Smart Contract Engineer |
