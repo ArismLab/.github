@@ -26,8 +26,8 @@ We are three young and enthusiastic Blockchain Developers who are now pround to 
 |     Founder      | Role                                                              | Email                                                 |
 | :--------------: | ----------------------------------------------------------------- | ----------------------------------------------------- |
 |   **Nhi Tran**   | Bussiness Developer / Game Developer / Blockchain Engineer        | [nhitran@arism.org](mailto:nnhitran@arism.org)        |
-|  **Kiet Tran**   | Backend Developer / DevOps Engineer / Smart Contract Engineer     | [kiettran@arism.org](mailto:kiettran@arism.org)       |
-| **Thuan Nguyen** | Fullstack Developer / Security Engineer / Smart Contract Engineer | [thuannguyen@arism.org](mailto:thuannguyen@arism.org) |
+|  **Kiet Tran**   | DevOps Engineer / Backend Developer / Smart Contract Engineer     | [kiettran@arism.org](mailto:kiettran@arism.org)       |
+| **Thuan Nguyen** | Security Engineer / Fullstack Developer / Smart Contract Engineer | [thuannguyen@arism.org](mailto:thuannguyen@arism.org) |
 
 ## Contact us
 
