@@ -1,8 +1,15 @@
 <div align='center'>
 <h1>Arism Lab - Power your future</h1>
-<p>We bring a new transparent world by developing cutting-edge web3 applications 🚀</p>
-<a href="https://arism.vercel.app">https://arism.org</a>
+<em>We bring a new transparent world by developing cutting-edge web3 applications 🚀</em>
+<br/>
+<br/>
+<a href="https://arism.vercel.app">arism.org</a> © 2024
 </div>
+
+<br/>
+<br/>
+
+<img src="./ARISM-BANNER.png" alt="Arism Lab" />
 
 ## Highlight projects
 
