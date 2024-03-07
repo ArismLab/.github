@@ -29,11 +29,11 @@ A block building and defending Game on Telegram.
 
 We are three young and enthusiastic Blockchain Developers who are now pround to be the Arism founders.
 
-|     Founder      | Role                                                              | Email                                                 |
-| :--------------: | ----------------------------------------------------------------- | ----------------------------------------------------- |
-|   **Nhi Tran**   | Bussiness Developer / Game Developer / Blockchain Engineer        | [nhitran@arism.org](mailto:nnhitran@arism.org)        |
-|  **Kiet Tran**   | DevOps Engineer / Backend Developer / Smart Contract Engineer     | [kiettran@arism.org](mailto:kiettran@arism.org)       |
-| **Thuan Nguyen** | Security Engineer / Fullstack Developer / Smart Contract Engineer | [thuannguyen@arism.org](mailto:thuannguyen@arism.org) |
+|     Founder      | Role                                                                 | Email                                                 |
+| :--------------: | -------------------------------------------------------------------- | ----------------------------------------------------- |
+|   **Nhi Tran**   | Business Development Executor / Game Developer / Blockchain Engineer | [nhitran@arism.org](mailto:nnhitran@arism.org)        |
+|  **Kiet Tran**   | DevOps Engineer / Backend Developer / Smart Contract Engineer        | [kiettran@arism.org](mailto:kiettran@arism.org)       |
+| **Thuan Nguyen** | Security Engineer / Fullstack Developer / Smart Contract Engineer    | [thuannguyen@arism.org](mailto:thuannguyen@arism.org) |
 
 ## Contact us
 
