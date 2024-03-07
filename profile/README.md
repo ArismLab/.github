@@ -2,8 +2,7 @@
 <h1>Arism Lab - Power your future</h1>
 <em>We bring a new transparent world by developing cutting-edge web3 applications 🚀</em>
 <br/>
-<br/>
-<a href="https://arism.vercel.app">arism.org</a> © 2024
+<a href="https://arism.org">arism.org</a> © 2024
 </div>
 
 <br/>
