@@ -27,7 +27,7 @@ A block building and defending Game on Telegram.
 
 ## About us
 
-We are three young and enthusiastic Blockchain Developers who are now pround to be the Arism founders.
+We are three young and enthusiastic Blockchain Developers who are now proud to be the Arism founders.
 
 |     Founder      | Role                                                                 | Email                                                 |
 | :--------------: | -------------------------------------------------------------------- | ----------------------------------------------------- |
