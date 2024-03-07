@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ArismLab/.github/main/profile/ARISM-BANNER.png" alt="Arism Lab" />
+<img src="https://raw.githubusercontent.com/ArismLab/.github/main/profile/banner.png" alt="Arism Lab banner" />
 
 ## Highlight projects
 
