@@ -12,18 +12,28 @@
 
 ## Highlight projects
 
-### Arism Wallet
+### Arism Wallet - Hyper Wallet Protocol
 
-A Distributed Key and Identifier Management Protocol powered by Zero Knowledge.
+Arism Wallet is a distributed key and identifier management protocol powered by Zero Knowledge.
+
+This decentralized wallet application uses advanced cryptographic algorithms to ensure the security and integrity of user's private keys.
 
 - [Homepage](https://wallet.arism.org/)
-- [Documentation](https://wallet.arism.org/docs)
+- [Whitepaper](https://wallet.arism.org/docs)
 - [Software Development Kit](https://wallet.arism.org/sdk)
 - [Wallet Application](https://wallet.arism.org/app)
+
+Developed by [Thuan Nguyen](@SnowyField1906) and [Kiet Tran](@Kiet1618).
 
 ### Arism Game
 
 A block building and defending Game on Telegram.
+
+- [Homepage](https://wallet.arism.org/)
+- [Documentation](https://wallet.arism.org/docs)
+- [Telegram Bot](https://t.me/arismgame_bot)
+
+Developed by [Nhi Tran](@TranNhi27) and [Kiet Tran](@Kiet1618).
 
 ## About us
 
