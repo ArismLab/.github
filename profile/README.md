@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Arism Lab - Power your future</h1>
+<h1>Arism Lab - Power Your Future</h1>
 <em>We bring a new transparent world by developing cutting-edge web3 applications 🚀</em>
 <br/>
 <br/>
@@ -18,12 +18,12 @@ Arism Wallet is a distributed key and identifier management protocol powered by 
 
 This decentralized wallet application uses advanced cryptographic algorithms to ensure the security and integrity of user's private keys.
 
-- [Homepage](https://wallet.arism.org/)
-- [Whitepaper](https://wallet.arism.org/docs)
-- [Software Development Kit](https://wallet.arism.org/sdk)
-- [Wallet Application](https://wallet.arism.org/app)
+- [Homepage](https://arism.org/)
+- [Whitepaper](https://whitepaper.arism.org/)
+- [Wallet Application](https://app.arism.org/)
+- [Software Development Kit](https://www.npmjs.com/package/arism-sdk)
 
-Developed by [Thuan Nguyen](@SnowyField1906) and [Kiet Tran](@Kiet1618).
+Developed by @SnowyField1906 and @Kiet1618.
 
 ### Arism Game
 
@@ -33,7 +33,7 @@ A block building and defending Game on Telegram.
 - [Documentation](https://wallet.arism.org/docs)
 - [Telegram Bot](https://t.me/arismgame_bot)
 
-Developed by [Nhi Tran](@TranNhi27) and [Kiet Tran](@Kiet1618).
+Developed by @TranNhi27 and @Kiet1618.
 
 ## About us
 
