@@ -12,7 +12,7 @@
 
 ## Highlight projects
 
-### Arism Wallet - Hyper Wallet Protocol
+### Arism Wallet - The Hyper Wallet Protocol
 
 Arism Wallet is a distributed key and identifier management protocol powered by Zero Knowledge.
 
