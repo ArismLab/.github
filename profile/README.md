@@ -23,7 +23,7 @@ This decentralized wallet application uses advanced cryptographic algorithms to 
 - [Wallet Application](https://app.arism.org/)
 - [Software Development Kit](https://www.npmjs.com/package/arism-sdk)
 
-Developed by @SnowyField1906 and @Kiet1618.
+Developed by [Thuan Nguyen][https://github.com/SnowyField1906] and [Kiet Tran](https://github.com/Kiet1618).
 
 ### Arism Game
 
@@ -33,7 +33,7 @@ A block building and defending Game on Telegram.
 - [Documentation](https://wallet.arism.org/docs)
 - [Telegram Bot](https://t.me/arismgame_bot)
 
-Developed by @TranNhi27 and @Kiet1618.
+Developed by [Tran Nhi](https://github.com/TranNhi27) and [Kiet Tran](https://github.com/Kiet1618).
 
 ## About us
 
