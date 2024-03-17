@@ -18,18 +18,29 @@ Arism Wallet is a distributed key and identifier management protocol powered by 
 
 This decentralized wallet application uses advanced cryptographic algorithms to ensure the security and integrity of user's private keys.
 
+Developed by [Thuan Nguyen](https://github.com/SnowyField1906) and [Kiet Tran](https://github.com/Kiet1618).
+
+#### Find out more about our product here
+
 - [Homepage](https://arism.org/)
-- [Whitepaper](https://whitepaper.arism.org/)
-- [Wallet Application](https://app.arism.org/)
+- [Application](https://app.arism.org/)
+- [Docs & Whitepaper](https://docs.arism.org/)
 - [Software Development Kit](https://www.npmjs.com/package/arism-sdk)
 
-Developed by [Thuan Nguyen](https://github.com/SnowyField1906) and [Kiet Tran](https://github.com/Kiet1618).
+#### Repositories
+
+- [arism-homepage](https://github.com/arism-homepage)
+- [arism-application](https://github.com/arism-application)
+- [arism-node](https://github.com/arism-node)
+- [arism-metadata](https://github.com/arism-metadata)
+- [arism-docs](https://github.com/arism-docs)
+- [arism-sdk](https://github.com/arism-sdk)
 
 ### Arism Game
 
 A block building and defending Game on Telegram.
 
-- [Homepage](https://wallet.arism.org/)
+- [Homepage](https://game.arism.org/)
 - [Documentation](https://wallet.arism.org/docs)
 - [Telegram Bot](https://t.me/arismgame_bot)
 
