@@ -50,11 +50,12 @@ Developed by [Tran Nhi](https://github.com/TranNhi27) and [Kiet Tran](https://gi
 
 We are three young and enthusiastic Blockchain Developers who are now proud to be the Arism Lab founders.
 
-|     Founder      | Role                                                                 | Email                                                 |
-| :--------------: | -------------------------------------------------------------------- | ----------------------------------------------------- |
-|   **Nhi Tran**   | Business Development Executor / Game Developer / Blockchain Engineer | [nhitran@arism.org](mailto:nnhitran@arism.org)        |
-|  **Kiet Tran**   | DevOps Engineer / Backend Developer / Smart Contract Engineer        | [kiettran@arism.org](mailto:kiettran@arism.org)       |
-| **Thuan Nguyen** | Security Engineer / Fullstack Developer / Smart Contract Engineer    | [thuannguyen@arism.org](mailto:thuannguyen@arism.org) |
+|     Founder      | Role                                                                 | Email                                                 | Linkedin                                         | 
+| :--------------: | -------------------------------------------------------------------- | ----------------------------------------------------- |--------------------------------------------------|
+|   **Nhi Tran**   | Business Development Executor / Game Developer / Blockchain Engineer | [nhitran@arism.org](mailto:nnhitran@arism.org)        |[Nhi](https://www.linkedin.com/in/nhitran189389/) |
+|  **Kiet Tran**   | DevOps Engineer / Backend Developer / Smart Contract Engineer        | [kiettran@arism.org](mailto:kiettran@arism.org)       |[Kiet]()                                          |
+| **Thuan Nguyen** | Security Engineer / Fullstack Developer / Smart Contract Engineer    | [thuannguyen@arism.org](mailto:thuannguyen@arism.org) |[Thuan]()                                         |
+|  **Thuan Bui**   | Product Management / Community Manager / UI-UX                       | [thuanbui@arism.org](mailto:thuanbui@arism.org)       |[Thuan](https://www.linkedin.com/in/btmthuan/)    |
 
 ## Contact us
 
