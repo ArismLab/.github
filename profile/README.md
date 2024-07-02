@@ -48,7 +48,7 @@ Developed by [Tran Nhi](https://github.com/TranNhi27) and [Kiet Tran](https://gi
 
 ## About us
 
-We are three young and enthusiastic Blockchain Developers who are now proud to be the Arism Lab founders.
+We are four young and enthusiastic Blockchain Developers who are now proud to be the Arism Lab founders.
 
 |     Founder      | Role                                                                 | Email                                                 | Linkedin                                         | 
 | :--------------: | -------------------------------------------------------------------- | ----------------------------------------------------- |--------------------------------------------------|
